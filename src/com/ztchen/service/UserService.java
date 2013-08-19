@@ -34,6 +34,7 @@ public class UserService implements IUserService
 
 	public User getUser(String username)
 	{
+		//userDao.removeUser("tt");
 		return userDao.getUser(username);
 	}
 
