@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<!-- 基于节点的方式 -->
+	<!--
+	<t_user>
+		<id>1</id>
+		<username>zt</username>
+		<password>123</password>
+	</t_user>
+	-->
+	<!-- 基于属性的方式 -->
+	<t_user id="1" username="admin" password="123"/>
+</dataset>
