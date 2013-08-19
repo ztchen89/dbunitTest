@@ -65,13 +65,4 @@ public class TestUserServiceByEasyMock
 		EasyMock.verify(ud);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
